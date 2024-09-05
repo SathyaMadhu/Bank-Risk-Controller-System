@@ -50,13 +50,13 @@ ultimately minimize the likelihood of loan defaults.
 
 **DATA PROCESSING** :
 
-        •	Categorical Data Encoding using **Label Encoder**
-        •	Feature Selection : **SelectionKbest, Chi-Square and Correlation**
-        •	Skewness Handling using log transformation
-        •	Outlier Treatment - IQR
-        •	Feature Engineering: Creating new variable to enhance the model performance
-        •	Training Model
-        •	Evaluating Model  
+           •	Categorical Data Encoding using **Label Encoder**
+           •	Feature Selection : **SelectionKbest, Chi-Square and Correlation**
+           •	Skewness Handling using log transformation
+           •	Outlier Treatment - IQR
+           •	Feature Engineering: Creating new variable to enhance the model performance
+           •	Training Model
+           •	Evaluating Model  
 
 **DASHBOARD CREATION1:**
 
