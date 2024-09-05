@@ -39,22 +39,24 @@ ultimately minimize the likelihood of loan defaults.
 
 **PHASES INVOLVED:**
 
-Data Retrieval : Python scripts were employed to extract data/datasets from the CSV file
+**DATA RETRIEVAL** : Python scripts were employed to extract data/datasets from the CSV file
 
-**DATA PRE-PROCESSING** : Cleaning and preparing the dataset for further Analysis
-  
-  •	Handling Missing Values
-  •	Formatting
+**DATA PRE-PROCESSING** : 
+
+      Cleaning and preparing the dataset for further Analysis
+        
+        •	Handling Missing Values
+        •	Formatting
 
 **DATA PROCESSING** :
 
-  •	Categorical Data Encoding using **Label Encoder**
-  •	Feature Selection : **SelectionKbest, Chi-Square and Correlation**
-  •	Skewness Handling using log transformation
-  •	Outlier Treatment - IQR
-  •	Feature Engineering: Creating new variable to enhance the model performance
-  •	Training Model
-  •	Evaluating Model  
+        •	Categorical Data Encoding using **Label Encoder**
+        •	Feature Selection : **SelectionKbest, Chi-Square and Correlation**
+        •	Skewness Handling using log transformation
+        •	Outlier Treatment - IQR
+        •	Feature Engineering: Creating new variable to enhance the model performance
+        •	Training Model
+        •	Evaluating Model  
 
 **DASHBOARD CREATION1:**
 
