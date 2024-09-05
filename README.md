@@ -96,7 +96,8 @@ The BANK RISK CONTROLLER SYSTEM Streamlit App helps to understand insights of va
 ![image](https://github.com/user-attachments/assets/12d6a766-b04a-4443-9796-215025702c16)
 ![image](https://github.com/user-attachments/assets/b901cae4-7de6-4855-81fe-4b79696aeedf)
 ![image](https://github.com/user-attachments/assets/cdf30df6-e6c2-42ec-815e-8a2503af7cc6)
-![Uploading Screenshot (90).png…]()
+![image](https://github.com/user-attachments/assets/ed644e98-ffbd-4a33-8b95-70ca50fc26ce)
+
 
 
 
