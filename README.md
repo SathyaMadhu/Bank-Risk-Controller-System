@@ -1,6 +1,6 @@
 **PROJECT OBJECTIVE**
    
-    There are two Parts in the Project Prime Part is on 
+There are two Parts in the Project Prime Part is on 
     
   **BANK RISK CONTROLLER SYSTEM**, The goal of this project is to develop a reliable predictive model that effectively identifies customers at high risk of loan default. 
 This will allow the financial institution to proactively manage its credit portfolio, implement targeted strategies, and 
