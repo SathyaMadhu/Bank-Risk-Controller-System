@@ -9,9 +9,9 @@ ultimately minimize the likelihood of loan defaults.
   Second Part of the Project is **"SENTIMENTAL ANALYSIS"**
 
 **TECHNOLOGIES USED**
-      Python
-      Data Preprocessing
-      EDA(Exploratory Data Analysis)
+Python
+Data Preprocessing
+EDA(Exploratory Data Analysis)
       Machine Learning - Classification Model
       Visualization
       Sentimental Analysis
