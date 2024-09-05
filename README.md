@@ -24,24 +24,25 @@ ultimately minimize the likelihood of loan defaults.
 
 **PYTHON LIBRARIES/MODULES ENGAGED:**
 
-    •	Import pandas as pd 
-    •	Import numpy as np
-    •	Import streamlit as st
-    •	From streamlit_option_menu import option_menu
-    •	Import plotly.express as px
-    •	Import pickle
-    •	From matplotlib import pyplot as plt
-    •	Import seaborn as sns
-    •	Import re
-    •	From sklearn.preprocessing import labelencoder
-    •	Import nltk
-    •	From nltk.sentiment.vader import sentimentintensityanalyzer
-    •	from PIL import Image
-   •	import torch
-   •	import yaml
-   •	import os
-   •	from pathlib import Path
-   •	import io
+         •	Import pandas as pd 
+         •	Import numpy as np
+         •	Import streamlit as st
+         •	From streamlit_option_menu import option_menu
+         •	Import plotly.express as px
+         •	Import pickle
+         •	From matplotlib import pyplot as plt
+         •	Import seaborn as sns
+         •	Import re
+         •	From sklearn.preprocessing import labelencoder
+         •	Import nltk
+         •	From nltk.sentiment.vader import sentimentintensityanalyzer
+         •	from PIL import Image
+         •	import torch
+         •	import yaml
+         •	import os
+         •	from pathlib import Path
+         •	import io
+
 
 **PHASES INVOLVED:**
 
