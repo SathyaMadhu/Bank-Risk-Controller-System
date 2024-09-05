@@ -77,13 +77,14 @@ ultimately minimize the likelihood of loan defaults.
 
 **DASHBOARD CREATION3:**
 
-      YOLO OBJECT DETECTION to identify the object in the Uploaded Image
+      YOLO OBJECT DETECTION to detect the object in the Uploaded Image
    
 **OUTPUT INCLUDES** :
 
     Streamlit App to assess the risk of loan defaulter
     Visually appealing dashboard to understand the data in easy, efficient manner and along with deep insights
     Sentimental Analysis box to understand the nature/character of the statements
+    Yolo Object Detection Dashboard to detect the objects in the image
 
 **CONCLUSION:**
 
