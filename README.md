@@ -9,6 +9,7 @@ ultimately minimize the likelihood of loan defaults.
   Second Part of the Project is **"SENTIMENTAL ANALYSIS"**
 
 **TECHNOLOGIES USED**
+
       •	PYTHON
       •	DATA PREPROCESSING
       •	EDA(EXPLORATORY DATA ANALYSIS)
