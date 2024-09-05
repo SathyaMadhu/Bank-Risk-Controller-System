@@ -1,12 +1,14 @@
 **PROJECT OBJECTIVE**
    
-There are two Parts in the Project Prime Part is on 
+There are three Parts in the Project Prime Part is on 
     
   **BANK RISK CONTROLLER SYSTEM**, The goal of this project is to develop a reliable predictive model that effectively identifies customers at high risk of loan default. 
 This will allow the financial institution to proactively manage its credit portfolio, implement targeted strategies, and 
 ultimately minimize the likelihood of loan defaults.
   
   Second Part of the Project is **"SENTIMENTAL ANALYSIS"**
+  
+  Last Part of the Project is **"YOLO OBJECT DETECTION"**
 
 **TECHNOLOGIES USED**
 
@@ -34,8 +36,12 @@ ultimately minimize the likelihood of loan defaults.
     •	From sklearn.preprocessing import labelencoder
     •	Import nltk
     •	From nltk.sentiment.vader import sentimentintensityanalyzer
-    •	Import os
-    •	From pathlib import path
+    •	from PIL import Image
+   •	import torch
+   •	import yaml
+   •	import os
+   •	from pathlib import Path
+   •	import io
 
 **PHASES INVOLVED:**
 
@@ -68,6 +74,10 @@ ultimately minimize the likelihood of loan defaults.
 
     Sentimental Analysis text box to analysis the postive and negative of statements or comments given by the user
 
+**DASHBOARD CREATION3:**
+
+      YOLO OBJECT DETECTION to identify the object in the Uploaded Image
+   
 **OUTPUT INCLUDES** :
 
     Streamlit App to assess the risk of loan defaulter
@@ -84,6 +94,7 @@ The BANK RISK CONTROLLER SYSTEM Streamlit App helps to understand insights of va
 ![image](https://github.com/user-attachments/assets/12d6a766-b04a-4443-9796-215025702c16)
 ![image](https://github.com/user-attachments/assets/b901cae4-7de6-4855-81fe-4b79696aeedf)
 ![image](https://github.com/user-attachments/assets/cdf30df6-e6c2-42ec-815e-8a2503af7cc6)
+![Uploading Screenshot (90).png…]()
 
 
 
