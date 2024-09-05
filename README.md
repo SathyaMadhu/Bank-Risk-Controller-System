@@ -9,13 +9,13 @@ ultimately minimize the likelihood of loan defaults.
   Second Part of the Project is **"SENTIMENTAL ANALYSIS"**
 
 **TECHNOLOGIES USED**
-Python
-Data Preprocessing
-EDA(Exploratory Data Analysis)
-      Machine Learning - Classification Model
-      Visualization
-      Sentimental Analysis
-      Streamlit GUI
+      •	PYTHON
+      •	DATA PREPROCESSING
+      •	EDA(EXPLORATORY DATA ANALYSIS)
+      •	MACHINE LEARNING - CLASSIFICATION MODEL
+      •	VISUALIZATION
+      •	SENTIMENTAL ANALYSIS
+      •	STREAMLIT GUI
 
 **Dashboard:** Streamlit and  Plotly
 
